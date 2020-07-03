@@ -1,0 +1,1297 @@
+[
+  {
+    "movie": "The King (2019)",
+    "rank": 1,
+    "popularity": 2,
+    "userReviews": 459,
+    "criticReviews": 94,
+    "budget": "Unavailable",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ]
+  },
+  {
+    "movie": "Terminator: Dark Fate (2019)",
+    "rank": 2,
+    "popularity": 0,
+    "userReviews": 1,
+    "criticReviews": 287,
+    "budget": 185000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Joker (2019)",
+    "rank": 3,
+    "popularity": -2,
+    "userReviews": 7,
+    "criticReviews": 562,
+    "budget": 55000000,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Doctor Sleep (2019)",
+    "rank": 4,
+    "popularity": 0,
+    "userReviews": 494,
+    "criticReviews": 226,
+    "budget": 45000000,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Midway (2019)",
+    "rank": 5,
+    "popularity": 22,
+    "userReviews": 278,
+    "criticReviews": 93,
+    "budget": 100000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ]
+  },
+  {
+    "movie": "The Irishman (2019)",
+    "rank": 6,
+    "popularity": 4,
+    "userReviews": 108,
+    "criticReviews": 161,
+    "budget": 159000000,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "movie": "Last Christmas (2019)",
+    "rank": 7,
+    "popularity": 36,
+    "userReviews": 135,
+    "criticReviews": 84,
+    "budget": 25000000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Gisaengchung (2019)",
+    "rank": 8,
+    "popularity": 5,
+    "userReviews": 380,
+    "criticReviews": 286,
+    "budget": "Unavailable",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "The Lighthouse (2019)",
+    "rank": 9,
+    "popularity": -3,
+    "userReviews": 226,
+    "criticReviews": 183,
+    "budget": "Unavailable",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  {
+    "movie": "Charlie's Angels (2019)",
+    "rank": 10,
+    "popularity": 22,
+    "userReviews": 124,
+    "criticReviews": 45,
+    "budget": 48000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  {
+    "movie": "Jojo Rabbit (2019)",
+    "rank": 11,
+    "popularity": 15,
+    "userReviews": 142,
+    "criticReviews": 155,
+    "budget": "Unavailable",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "movie": "Motherless Brooklyn (2019)",
+    "rank": 12,
+    "popularity": 4,
+    "userReviews": 86,
+    "criticReviews": 77,
+    "budget": 26000000,
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "movie": "Zombieland: Double Tap (2019)",
+    "rank": 13,
+    "popularity": -6,
+    "userReviews": 340,
+    "criticReviews": 220,
+    "budget": 42000000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ]
+  },
+  {
+    "movie": "The Lion King (2019)",
+    "rank": 14,
+    "popularity": -3,
+    "userReviews": 2,
+    "criticReviews": 339,
+    "budget": 260000000,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Musical"
+    ]
+  },
+  {
+    "movie": "Maleficent: Mistress of Evil (2019)",
+    "rank": 15,
+    "popularity": -6,
+    "userReviews": 361,
+    "criticReviews": 169,
+    "budget": 185000000,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie": "The Peanut Butter Falcon (2019)",
+    "rank": 16,
+    "popularity": 44,
+    "userReviews": 171,
+    "criticReviews": 136,
+    "budget": "Unavailable",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "movie": "Ford v Ferrari (2019)",
+    "rank": 17,
+    "popularity": 36,
+    "userReviews": 144,
+    "criticReviews": 155,
+    "budget": 97600000,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "movie": "The Shining (1980)",
+    "rank": 18,
+    "popularity": 4,
+    "userReviews": 1,
+    "criticReviews": 338,
+    "budget": 19000000,
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  {
+    "movie": "Watchmen (2009)",
+    "rank": 19,
+    "popularity": 26,
+    "userReviews": 1,
+    "criticReviews": 475,
+    "budget": 130000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Knives Out (2019)",
+    "rank": 20,
+    "popularity": -6,
+    "userReviews": 17,
+    "criticReviews": 82,
+    "budget": 40000000,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Star Wars: Episode IX - The Rise of Skywalker (2019)",
+    "rank": 21,
+    "popularity": -9,
+    "userReviews": 17,
+    "criticReviews": 82,
+    "budget": "Unavailable",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Soul (2020)",
+    "rank": 22,
+    "popularity": 1,
+    "userReviews": 17,
+    "criticReviews": 82,
+    "budget": "Unavailable",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Music",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Jumanji: The Next Level (2019)",
+    "rank": 23,
+    "popularity": 18,
+    "userReviews": 17,
+    "criticReviews": 82,
+    "budget": "Unavailable",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie": "Frozen II (2019)",
+    "rank": 24,
+    "popularity": 41,
+    "userReviews": 8,
+    "criticReviews": 29,
+    "budget": "Unavailable",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical"
+    ]
+  },
+  {
+    "movie": "Christmas in the Wild (2019)",
+    "rank": 25,
+    "popularity": 61,
+    "userReviews": 85,
+    "criticReviews": 15,
+    "budget": "Unavailable",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Dolemite Is My Name (2019)",
+    "rank": 26,
+    "popularity": -21,
+    "userReviews": 214,
+    "criticReviews": 106,
+    "budget": "Unavailable",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "movie": "Fast & Furious Presents: Hobbs & Shaw (2019)",
+    "rank": 27,
+    "popularity": 19,
+    "userReviews": 1,
+    "criticReviews": 279,
+    "budget": 200000000,
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "movie": "The Banker (2019)",
+    "rank": 28,
+    "popularity": 7,
+    "userReviews": 1,
+    "criticReviews": 279,
+    "budget": "Unavailable",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "movie": "Harriet (2019)",
+    "rank": 29,
+    "popularity": 27,
+    "userReviews": 118,
+    "criticReviews": 67,
+    "budget": 17000000,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "movie": "Good Boys (2019)",
+    "rank": 30,
+    "popularity": -7,
+    "userReviews": 394,
+    "criticReviews": 161,
+    "budget": 20000000,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  {
+    "movie": "Midsommar (2019)",
+    "rank": 31,
+    "popularity": -13,
+    "userReviews": 1,
+    "criticReviews": 365,
+    "budget": 10000000,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Let It Snow (2019)",
+    "rank": 32,
+    "popularity": 574,
+    "userReviews": 93,
+    "criticReviews": 19,
+    "budget": "Unavailable",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "The Invisible Man (2020)",
+    "rank": 33,
+    "popularity": 4,
+    "userReviews": 93,
+    "criticReviews": 19,
+    "budget": 1230000,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Honey Boy (2019)",
+    "rank": 34,
+    "popularity": 234,
+    "userReviews": 12,
+    "criticReviews": 51,
+    "budget": "Unavailable",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "movie": "Dora and the Lost City of Gold (2019)",
+    "rank": 35,
+    "popularity": 445,
+    "userReviews": 172,
+    "criticReviews": 114,
+    "budget": 49000000,
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  {
+    "movie": "American Son (2019)",
+    "rank": 36,
+    "popularity": 164,
+    "userReviews": 203,
+    "criticReviews": 16,
+    "budget": "Unavailable",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "movie": "Once Upon a Time... in Hollywood (2019)",
+    "rank": 37,
+    "popularity": -9,
+    "userReviews": 3,
+    "criticReviews": 523,
+    "budget": 90000000,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "movie": "The Laundromat (2019)",
+    "rank": 38,
+    "popularity": -21,
+    "userReviews": 218,
+    "criticReviews": 94,
+    "budget": "Unavailable",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "movie": "Avengers: Endgame (2019)",
+    "rank": 39,
+    "popularity": 5,
+    "userReviews": 8,
+    "criticReviews": 532,
+    "budget": 356000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Official Secrets (2019)",
+    "rank": 40,
+    "popularity": 206,
+    "userReviews": 89,
+    "criticReviews": 106,
+    "budget": "Unavailable",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance",
+      "Thriller",
+      "War"
+    ]
+  },
+  {
+    "movie": "Terminator 2: Judgment Day (1991)",
+    "rank": 41,
+    "popularity": 14,
+    "userReviews": 1,
+    "criticReviews": 289,
+    "budget": 102000000,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "It Chapter Two (2019)",
+    "rank": 42,
+    "popularity": -22,
+    "userReviews": 1,
+    "criticReviews": 373,
+    "budget": 79000000,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  {
+    "movie": "Countdown (2019)",
+    "rank": 43,
+    "popularity": -22,
+    "userReviews": 90,
+    "criticReviews": 50,
+    "budget": 6500000,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "The Terminator (1984)",
+    "rank": 44,
+    "popularity": 4,
+    "userReviews": 818,
+    "criticReviews": 222,
+    "budget": 6400000,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Terminator Genisys (2015)",
+    "rank": 45,
+    "popularity": 13,
+    "userReviews": 1,
+    "criticReviews": 509,
+    "budget": 155000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "El Camino: A Breaking Bad Movie (2019)",
+    "rank": 46,
+    "popularity": -22,
+    "userReviews": 1,
+    "criticReviews": 121,
+    "budget": "Unavailable",
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "movie": "The Batman (2021)",
+    "rank": 47,
+    "popularity": 53,
+    "userReviews": 1,
+    "criticReviews": 121,
+    "budget": "Unavailable",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Bad Boys for Life (2020)",
+    "rank": 48,
+    "popularity": 253,
+    "userReviews": 1,
+    "criticReviews": 121,
+    "budget": "Unavailable",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Playing with Fire (2019)",
+    "rank": 49,
+    "popularity": 158,
+    "userReviews": 46,
+    "criticReviews": 15,
+    "budget": 29900000,
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "movie": "Toy Story 4 (2019)",
+    "rank": 50,
+    "popularity": -3,
+    "userReviews": 1,
+    "criticReviews": 341,
+    "budget": 200000000,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie": "Hustlers (2019)",
+    "rank": 51,
+    "popularity": -11,
+    "userReviews": 373,
+    "criticReviews": 194,
+    "budget": 20000000,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Scary Stories to Tell in the Dark (2019)",
+    "rank": 52,
+    "popularity": -18,
+    "userReviews": 473,
+    "criticReviews": 231,
+    "budget": 25000000,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "The Golden Compass (2007)",
+    "rank": 53,
+    "popularity": 480,
+    "userReviews": 700,
+    "criticReviews": 258,
+    "budget": 180000000,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie": "Color Out of Space (2019)",
+    "rank": 54,
+    "popularity": 1,
+    "userReviews": 7,
+    "criticReviews": 36,
+    "budget": 6000000,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "47 Meters Down: Uncaged (2019)",
+    "rank": 55,
+    "popularity": -24,
+    "userReviews": 199,
+    "criticReviews": 98,
+    "budget": 12000000,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "The Addams Family (2019)",
+    "rank": 56,
+    "popularity": -26,
+    "userReviews": 154,
+    "criticReviews": 114,
+    "budget": 40000000,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  {
+    "movie": "Primal (2019)",
+    "rank": 57,
+    "popularity": 355,
+    "userReviews": 39,
+    "criticReviews": 25,
+    "budget": "Unavailable",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "movie": "Little Women (2019)",
+    "rank": 58,
+    "popularity": 23,
+    "userReviews": 39,
+    "criticReviews": 25,
+    "budget": "Unavailable",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Spider-Man: Far from Home (2019)",
+    "rank": 59,
+    "popularity": -2,
+    "userReviews": 1,
+    "criticReviews": 385,
+    "budget": 160000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "The Dark Knight (2008)",
+    "rank": 60,
+    "popularity": -10,
+    "userReviews": 6,
+    "criticReviews": 418,
+    "budget": 185000000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Fractured (2019)",
+    "rank": 61,
+    "popularity": -23,
+    "userReviews": 672,
+    "criticReviews": 42,
+    "budget": "Unavailable",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Gemini Man (2019)",
+    "rank": 62,
+    "popularity": -27,
+    "userReviews": 458,
+    "criticReviews": 228,
+    "budget": 138000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "No Time to Die (2020)",
+    "rank": 63,
+    "popularity": 4,
+    "userReviews": 458,
+    "criticReviews": 228,
+    "budget": 250000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Paradise Hills (2019)",
+    "rank": 64,
+    "popularity": 82,
+    "userReviews": 52,
+    "criticReviews": 52,
+    "budget": 6000000,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Eli (2019)",
+    "rank": 65,
+    "popularity": -40,
+    "userReviews": 415,
+    "criticReviews": 32,
+    "budget": "Unavailable",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "movie": "The Good Liar (2019)",
+    "rank": 66,
+    "popularity": 87,
+    "userReviews": 35,
+    "criticReviews": 40,
+    "budget": "Unavailable",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Dolemite (1975)",
+    "rank": 67,
+    "popularity": -48,
+    "userReviews": 64,
+    "criticReviews": 67,
+    "budget": 100000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  {
+    "movie": "Zombieland (2009)",
+    "rank": 68,
+    "popularity": -4,
+    "userReviews": 680,
+    "criticReviews": 476,
+    "budget": 23600000,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Yesterday (2019)",
+    "rank": 69,
+    "popularity": 7,
+    "userReviews": 726,
+    "criticReviews": 289,
+    "budget": 26000000,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Music",
+      "Musical",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "The Art of Racing in the Rain (2019)",
+    "rank": 70,
+    "popularity": -2,
+    "userReviews": 162,
+    "criticReviews": 70,
+    "budget": 20000000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sport"
+    ]
+  },
+  {
+    "movie": "After (2019)",
+    "rank": 71,
+    "popularity": 0,
+    "userReviews": 639,
+    "criticReviews": 68,
+    "budget": 14000000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Terminator Salvation (2009)",
+    "rank": 72,
+    "popularity": 27,
+    "userReviews": 1,
+    "criticReviews": 436,
+    "budget": 200000000,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Bala (2019)",
+    "rank": 73,
+    "popularity": 2,
+    "userReviews": 85,
+    "criticReviews": 11,
+    "budget": "Unavailable",
+    "genres": [
+      "Comedy"
+    ]
+  },
+  {
+    "movie": "Drive (2019)",
+    "rank": 74,
+    "popularity": 102,
+    "userReviews": 182,
+    "criticReviews": 8,
+    "budget": 75000000,
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Downton Abbey (2019)",
+    "rank": 75,
+    "popularity": -5,
+    "userReviews": 300,
+    "criticReviews": 141,
+    "budget": 20000000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "The Little Mermaid (1989)",
+    "rank": 76,
+    "popularity": 1,
+    "userReviews": 260,
+    "criticReviews": 145,
+    "budget": 40000000,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Halloween Kills (2020)",
+    "rank": 77,
+    "popularity": -25,
+    "userReviews": 260,
+    "criticReviews": 145,
+    "budget": "Unavailable",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "American History X (1998)",
+    "rank": 78,
+    "popularity": 159,
+    "userReviews": 1,
+    "criticReviews": 167,
+    "budget": 20000000,
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "movie": "Aladdin (2019)",
+    "rank": 79,
+    "popularity": -2,
+    "userReviews": 1,
+    "criticReviews": 322,
+    "budget": 183000000,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Housefull 4 (2019)",
+    "rank": 80,
+    "popularity": -29,
+    "userReviews": 286,
+    "criticReviews": 10,
+    "budget": "Unavailable",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie": "Terminator 3: Rise of the Machines (2003)",
+    "rank": 81,
+    "popularity": 29,
+    "userReviews": 1,
+    "criticReviews": 288,
+    "budget": 200000000,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "Hocus Pocus (1993)",
+    "rank": 82,
+    "popularity": -74,
+    "userReviews": 185,
+    "criticReviews": 55,
+    "budget": 28000000,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie": "Interstellar (2014)",
+    "rank": 83,
+    "popularity": 61,
+    "userReviews": 3,
+    "criticReviews": 612,
+    "budget": 165000000,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "A Beautiful Day in the Neighborhood (2019)",
+    "rank": 84,
+    "popularity": 34,
+    "userReviews": 16,
+    "criticReviews": 48,
+    "budget": 25000000,
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "movie": "The Shawshank Redemption (1994)",
+    "rank": 85,
+    "popularity": 4,
+    "userReviews": 7,
+    "criticReviews": 224,
+    "budget": 25000000,
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "movie": "It (2017)",
+    "rank": 86,
+    "popularity": -49,
+    "userReviews": 1,
+    "criticReviews": 610,
+    "budget": 35000000,
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "movie": "The Current War (2017)",
+    "rank": 87,
+    "popularity": -33,
+    "userReviews": 114,
+    "criticReviews": 72,
+    "budget": 30000000,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "movie": "Booksmart (2019)",
+    "rank": 88,
+    "popularity": 6,
+    "userReviews": 566,
+    "criticReviews": 236,
+    "budget": 6000000,
+    "genres": [
+      "Comedy"
+    ]
+  },
+  {
+    "movie": "Call Me by Your Name (2017)",
+    "rank": 89,
+    "popularity": 95,
+    "userReviews": 788,
+    "criticReviews": 459,
+    "budget": 4000000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Crawl (2019)",
+    "rank": 90,
+    "popularity": 6,
+    "userReviews": 641,
+    "criticReviews": 248,
+    "budget": 13500000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Blade Runner 2049 (2017)",
+    "rank": 91,
+    "popularity": 31,
+    "userReviews": 2,
+    "criticReviews": 628,
+    "budget": 150000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "The Nightingale (2018)",
+    "rank": 92,
+    "popularity": -26,
+    "userReviews": 105,
+    "criticReviews": 120,
+    "budget": "Unavailable",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Harry Potter and the Sorcerer's Stone (2001)",
+    "rank": 93,
+    "popularity": 31,
+    "userReviews": 1,
+    "criticReviews": 264,
+    "budget": 125000000,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie": "V for Vendetta (2005)",
+    "rank": 94,
+    "popularity": 382,
+    "userReviews": 2,
+    "criticReviews": 241,
+    "budget": 54000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Rocketman (2019)",
+    "rank": 95,
+    "popularity": -4,
+    "userReviews": 760,
+    "criticReviews": 319,
+    "budget": 40000000,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music",
+      "Musical"
+    ]
+  },
+  {
+    "movie": "Maleficent (2014)",
+    "rank": 96,
+    "popularity": -22,
+    "userReviews": 719,
+    "criticReviews": 425,
+    "budget": 180000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  {
+    "movie": "Aquaman (2018)",
+    "rank": 97,
+    "popularity": -14,
+    "userReviews": 3,
+    "criticReviews": 413,
+    "budget": 160000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie": "John Wick: Chapter 3 - Parabellum (2019)",
+    "rank": 98,
+    "popularity": -5,
+    "userReviews": 1,
+    "criticReviews": 346,
+    "budget": 75000000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "movie": "Marriage Story (2019)",
+    "rank": 99,
+    "popularity": 72,
+    "userReviews": 23,
+    "criticReviews": 98,
+    "budget": 18600000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  }
+]

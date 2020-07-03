@@ -1,0 +1,563 @@
+Movies with increased popularity: 
+[
+  "The King (2019)",
+  "Midway (2019)",
+  "The Irishman (2019)",
+  "Last Christmas (2019)",
+  "Gisaengchung (2019)",
+  "Charlie's Angels (2019)",
+  "Jojo Rabbit (2019)",
+  "Motherless Brooklyn (2019)",
+  "The Peanut Butter Falcon (2019)",
+  "Ford v Ferrari (2019)",
+  "The Shining (1980)",
+  "Watchmen (2009)",
+  "Soul (2020)",
+  "Jumanji: The Next Level (2019)",
+  "Frozen II (2019)",
+  "Christmas in the Wild (2019)",
+  "Fast & Furious Presents: Hobbs & Shaw (2019)",
+  "The Banker (2019)",
+  "Harriet (2019)",
+  "Let It Snow (2019)",
+  "The Invisible Man (2020)",
+  "Honey Boy (2019)",
+  "Dora and the Lost City of Gold (2019)",
+  "American Son (2019)",
+  "Avengers: Endgame (2019)",
+  "Official Secrets (2019)",
+  "Terminator 2: Judgment Day (1991)",
+  "The Terminator (1984)",
+  "Terminator Genisys (2015)",
+  "The Batman (2021)",
+  "Bad Boys for Life (2020)",
+  "Playing with Fire (2019)",
+  "The Golden Compass (2007)",
+  "Color Out of Space (2019)",
+  "Primal (2019)",
+  "Little Women (2019)",
+  "No Time to Die (2020)",
+  "Paradise Hills (2019)",
+  "The Good Liar (2019)",
+  "Yesterday (2019)",
+  "Terminator Salvation (2009)",
+  "Bala (2019)",
+  "Drive (2019)",
+  "The Little Mermaid (1989)",
+  "American History X (1998)",
+  "Terminator 3: Rise of the Machines (2003)",
+  "Interstellar (2014)",
+  "A Beautiful Day in the Neighborhood (2019)",
+  "The Shawshank Redemption (1994)",
+  "Booksmart (2019)",
+  "Call Me by Your Name (2017)",
+  "Crawl (2019)",
+  "Blade Runner 2049 (2017)",
+  "Harry Potter and the Sorcerer's Stone (2001)",
+  "V for Vendetta (2005)",
+  "Marriage Story (2019)"
+]
+
+
+Movies with increased popularity: 
+[
+  {
+    "movie": "The King (2019)",
+    "previousRank": 3,
+    "rank": 1
+  },
+  {
+    "movie": "Terminator: Dark Fate (2019)",
+    "previousRank": 2,
+    "rank": 2
+  },
+  {
+    "movie": "Joker (2019)",
+    "previousRank": 1,
+    "rank": 3
+  },
+  {
+    "movie": "Doctor Sleep (2019)",
+    "previousRank": 4,
+    "rank": 4
+  },
+  {
+    "movie": "Midway (2019)",
+    "previousRank": 27,
+    "rank": 5
+  },
+  {
+    "movie": "The Irishman (2019)",
+    "previousRank": 10,
+    "rank": 6
+  },
+  {
+    "movie": "Last Christmas (2019)",
+    "previousRank": 43,
+    "rank": 7
+  },
+  {
+    "movie": "Gisaengchung (2019)",
+    "previousRank": 13,
+    "rank": 8
+  },
+  {
+    "movie": "The Lighthouse (2019)",
+    "previousRank": 6,
+    "rank": 9
+  },
+  {
+    "movie": "Charlie's Angels (2019)",
+    "previousRank": 32,
+    "rank": 10
+  },
+  {
+    "movie": "Jojo Rabbit (2019)",
+    "previousRank": 26,
+    "rank": 11
+  },
+  {
+    "movie": "Motherless Brooklyn (2019)",
+    "previousRank": 16,
+    "rank": 12
+  },
+  {
+    "movie": "Zombieland: Double Tap (2019)",
+    "previousRank": 7,
+    "rank": 13
+  },
+  {
+    "movie": "The Lion King (2019)",
+    "previousRank": 11,
+    "rank": 14
+  },
+  {
+    "movie": "Maleficent: Mistress of Evil (2019)",
+    "previousRank": 9,
+    "rank": 15
+  },
+  {
+    "movie": "The Peanut Butter Falcon (2019)",
+    "previousRank": 60,
+    "rank": 16
+  },
+  {
+    "movie": "Ford v Ferrari (2019)",
+    "previousRank": 53,
+    "rank": 17
+  },
+  {
+    "movie": "The Shining (1980)",
+    "previousRank": 22,
+    "rank": 18
+  },
+  {
+    "movie": "Watchmen (2009)",
+    "previousRank": 45,
+    "rank": 19
+  },
+  {
+    "movie": "Knives Out (2019)",
+    "previousRank": 14,
+    "rank": 20
+  },
+  {
+    "movie": "Star Wars: Episode IX - The Rise of Skywalker (2019)",
+    "previousRank": 12,
+    "rank": 21
+  },
+  {
+    "movie": "Soul (2020)",
+    "previousRank": 23,
+    "rank": 22
+  },
+  {
+    "movie": "Jumanji: The Next Level (2019)",
+    "previousRank": 41,
+    "rank": 23
+  },
+  {
+    "movie": "Frozen II (2019)",
+    "previousRank": 65,
+    "rank": 24
+  },
+  {
+    "movie": "Christmas in the Wild (2019)",
+    "previousRank": 86,
+    "rank": 25
+  },
+  {
+    "movie": "Dolemite Is My Name (2019)",
+    "previousRank": 5,
+    "rank": 26
+  },
+  {
+    "movie": "Fast & Furious Presents: Hobbs & Shaw (2019)",
+    "previousRank": 46,
+    "rank": 27
+  },
+  {
+    "movie": "The Banker (2019)",
+    "previousRank": 35,
+    "rank": 28
+  },
+  {
+    "movie": "Harriet (2019)",
+    "previousRank": 56,
+    "rank": 29
+  },
+  {
+    "movie": "Good Boys (2019)",
+    "previousRank": 23,
+    "rank": 30
+  },
+  {
+    "movie": "Midsommar (2019)",
+    "previousRank": 18,
+    "rank": 31
+  },
+  {
+    "movie": "Let It Snow (2019)",
+    "previousRank": 606,
+    "rank": 32
+  },
+  {
+    "movie": "The Invisible Man (2020)",
+    "previousRank": 37,
+    "rank": 33
+  },
+  {
+    "movie": "Honey Boy (2019)",
+    "previousRank": 268,
+    "rank": 34
+  },
+  {
+    "movie": "Dora and the Lost City of Gold (2019)",
+    "previousRank": 480,
+    "rank": 35
+  },
+  {
+    "movie": "American Son (2019)",
+    "previousRank": 200,
+    "rank": 36
+  },
+  {
+    "movie": "Once Upon a Time... in Hollywood (2019)",
+    "previousRank": 28,
+    "rank": 37
+  },
+  {
+    "movie": "The Laundromat (2019)",
+    "previousRank": 17,
+    "rank": 38
+  },
+  {
+    "movie": "Avengers: Endgame (2019)",
+    "previousRank": 44,
+    "rank": 39
+  },
+  {
+    "movie": "Official Secrets (2019)",
+    "previousRank": 246,
+    "rank": 40
+  },
+  {
+    "movie": "Terminator 2: Judgment Day (1991)",
+    "previousRank": 55,
+    "rank": 41
+  },
+  {
+    "movie": "It Chapter Two (2019)",
+    "previousRank": 20,
+    "rank": 42
+  },
+  {
+    "movie": "Countdown (2019)",
+    "previousRank": 21,
+    "rank": 43
+  },
+  {
+    "movie": "The Terminator (1984)",
+    "previousRank": 48,
+    "rank": 44
+  },
+  {
+    "movie": "Terminator Genisys (2015)",
+    "previousRank": 58,
+    "rank": 45
+  },
+  {
+    "movie": "El Camino: A Breaking Bad Movie (2019)",
+    "previousRank": 24,
+    "rank": 46
+  },
+  {
+    "movie": "The Batman (2021)",
+    "previousRank": 100,
+    "rank": 47
+  },
+  {
+    "movie": "Bad Boys for Life (2020)",
+    "previousRank": 301,
+    "rank": 48
+  },
+  {
+    "movie": "Playing with Fire (2019)",
+    "previousRank": 207,
+    "rank": 49
+  },
+  {
+    "movie": "Toy Story 4 (2019)",
+    "previousRank": 47,
+    "rank": 50
+  },
+  {
+    "movie": "Hustlers (2019)",
+    "previousRank": 40,
+    "rank": 51
+  },
+  {
+    "movie": "Scary Stories to Tell in the Dark (2019)",
+    "previousRank": 34,
+    "rank": 52
+  },
+  {
+    "movie": "The Golden Compass (2007)",
+    "previousRank": 533,
+    "rank": 53
+  },
+  {
+    "movie": "Color Out of Space (2019)",
+    "previousRank": 55,
+    "rank": 54
+  },
+  {
+    "movie": "47 Meters Down: Uncaged (2019)",
+    "previousRank": 31,
+    "rank": 55
+  },
+  {
+    "movie": "The Addams Family (2019)",
+    "previousRank": 30,
+    "rank": 56
+  },
+  {
+    "movie": "Primal (2019)",
+    "previousRank": 412,
+    "rank": 57
+  },
+  {
+    "movie": "Little Women (2019)",
+    "previousRank": 81,
+    "rank": 58
+  },
+  {
+    "movie": "Spider-Man: Far from Home (2019)",
+    "previousRank": 57,
+    "rank": 59
+  },
+  {
+    "movie": "The Dark Knight (2008)",
+    "previousRank": 50,
+    "rank": 60
+  },
+  {
+    "movie": "Fractured (2019)",
+    "previousRank": 38,
+    "rank": 61
+  },
+  {
+    "movie": "Gemini Man (2019)",
+    "previousRank": 35,
+    "rank": 62
+  },
+  {
+    "movie": "No Time to Die (2020)",
+    "previousRank": 67,
+    "rank": 63
+  },
+  {
+    "movie": "Paradise Hills (2019)",
+    "previousRank": 146,
+    "rank": 64
+  },
+  {
+    "movie": "Eli (2019)",
+    "previousRank": 25,
+    "rank": 65
+  },
+  {
+    "movie": "The Good Liar (2019)",
+    "previousRank": 153,
+    "rank": 66
+  },
+  {
+    "movie": "Dolemite (1975)",
+    "previousRank": 19,
+    "rank": 67
+  },
+  {
+    "movie": "Zombieland (2009)",
+    "previousRank": 64,
+    "rank": 68
+  },
+  {
+    "movie": "Yesterday (2019)",
+    "previousRank": 76,
+    "rank": 69
+  },
+  {
+    "movie": "The Art of Racing in the Rain (2019)",
+    "previousRank": 68,
+    "rank": 70
+  },
+  {
+    "movie": "After (2019)",
+    "previousRank": 71,
+    "rank": 71
+  },
+  {
+    "movie": "Terminator Salvation (2009)",
+    "previousRank": 99,
+    "rank": 72
+  },
+  {
+    "movie": "Bala (2019)",
+    "previousRank": 75,
+    "rank": 73
+  },
+  {
+    "movie": "Drive (2019)",
+    "previousRank": 176,
+    "rank": 74
+  },
+  {
+    "movie": "Downton Abbey (2019)",
+    "previousRank": 70,
+    "rank": 75
+  },
+  {
+    "movie": "The Little Mermaid (1989)",
+    "previousRank": 77,
+    "rank": 76
+  },
+  {
+    "movie": "Halloween Kills (2020)",
+    "previousRank": 52,
+    "rank": 77
+  },
+  {
+    "movie": "American History X (1998)",
+    "previousRank": 237,
+    "rank": 78
+  },
+  {
+    "movie": "Aladdin (2019)",
+    "previousRank": 77,
+    "rank": 79
+  },
+  {
+    "movie": "Housefull 4 (2019)",
+    "previousRank": 51,
+    "rank": 80
+  },
+  {
+    "movie": "Terminator 3: Rise of the Machines (2003)",
+    "previousRank": 110,
+    "rank": 81
+  },
+  {
+    "movie": "Hocus Pocus (1993)",
+    "previousRank": 8,
+    "rank": 82
+  },
+  {
+    "movie": "Interstellar (2014)",
+    "previousRank": 144,
+    "rank": 83
+  },
+  {
+    "movie": "A Beautiful Day in the Neighborhood (2019)",
+    "previousRank": 118,
+    "rank": 84
+  },
+  {
+    "movie": "The Shawshank Redemption (1994)",
+    "previousRank": 89,
+    "rank": 85
+  },
+  {
+    "movie": "It (2017)",
+    "previousRank": 37,
+    "rank": 86
+  },
+  {
+    "movie": "The Current War (2017)",
+    "previousRank": 54,
+    "rank": 87
+  },
+  {
+    "movie": "Booksmart (2019)",
+    "previousRank": 94,
+    "rank": 88
+  },
+  {
+    "movie": "Call Me by Your Name (2017)",
+    "previousRank": 184,
+    "rank": 89
+  },
+  {
+    "movie": "Crawl (2019)",
+    "previousRank": 96,
+    "rank": 90
+  },
+  {
+    "movie": "Blade Runner 2049 (2017)",
+    "previousRank": 122,
+    "rank": 91
+  },
+  {
+    "movie": "The Nightingale (2018)",
+    "previousRank": 66,
+    "rank": 92
+  },
+  {
+    "movie": "Harry Potter and the Sorcerer's Stone (2001)",
+    "previousRank": 124,
+    "rank": 93
+  },
+  {
+    "movie": "V for Vendetta (2005)",
+    "previousRank": 476,
+    "rank": 94
+  },
+  {
+    "movie": "Rocketman (2019)",
+    "previousRank": 91,
+    "rank": 95
+  },
+  {
+    "movie": "Maleficent (2014)",
+    "previousRank": 74,
+    "rank": 96
+  },
+  {
+    "movie": "Aquaman (2018)",
+    "previousRank": 83,
+    "rank": 97
+  },
+  {
+    "movie": "John Wick: Chapter 3 - Parabellum (2019)",
+    "previousRank": 93,
+    "rank": 98
+  },
+  {
+    "movie": "Marriage Story (2019)",
+    "previousRank": 171,
+    "rank": 99
+  }
+]
+
+
+Most popular Genre: 
+Drama
